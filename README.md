@@ -11,7 +11,7 @@ Epicodus project featuring a faux cupcake shop. Extremely basic HTML/CSS practic
 * run `git clone https://https://github.com/10igeorge/intro-cupcakeshop`
 
 #### Home Page Landing
-https://10igeorge.github.io
+https://10igeorge.github.io/intro-cupcakeshop
 
 ##### License
 
